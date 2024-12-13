@@ -39,11 +39,11 @@ class HomePage extends StatelessWidget {
                   ),
                   SizedBox(height: 10),
                   Text(
-                    "Anushree Gupta",
+                    "Ujjwal Maurya",
                     style: TextStyle(color: Colors.white, fontSize: 18),
                   ),
                   Text(
-                    "anu12@gmail.com",
+                    "ujjwalmaurya662@gmail.com",
                     style: TextStyle(color: Colors.white70),
                   ),
                 ],
